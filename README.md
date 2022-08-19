@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Mobile, Java, Kotlin, Backend, Frontend, Git/GitHub.<br>Estudante - Analise e desenvolvimento de sistemas
+Desenvolvedor Mobile, Java, Kotlin, Backend, Git/GitHub.<br>Estudante - Analise e desenvolvimento de sistemas
 
 
 ## 🌐 Socials:
