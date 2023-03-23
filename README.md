@@ -1,20 +1,31 @@
-# About Me:
-Desenvolvedor Mobile, Java, Kotlin, Git.<br>Estudante - Analise e desenvolvimento de sistemas
+# 💫 Sobre mim:
+
+TEXTO COM PELO MENOS DOIS PARÁGRAFOS SOBRE VOCÊ
+
+**Atualmente:** DESCREVE SEU CENÁRIO ATUAL, SEJA TRABALHANDO OU ESTUDANDO.
+
+**Estudando:** DESCREVA O QUE ESTÁ ESTUDANDO ATUALMENTE DE FORMA MAIS APROFUNDADA.
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discord.gg/vitu#8675) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vitorl.jpeg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lopes-vitor/) 
+# 📧 Contato:
+
+<a href="mailto:vitorlopescav@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
+<a href="https://www.linkedin.com/in/lopes-vitor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+<a href="https://wa.me/+5515998471704"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
+
+## 🌐 Redes Sociais:
+<a href="https://www.instagram.com/vitorl.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%23ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+PREENCHA COM AS STACKS E FERRAMENTAS QUE UTILIZA. EXEMPLO:
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lopes-Vitor&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lopes-Vitor&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopes-Vitor&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![](https://github-readme-stats.vercel.app/api?username=USUARIO DO GITHUB&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=USUARIO DO GITHUB&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO DO GITHUB&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=Lopes-Vitor&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=USUARIO DO GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
