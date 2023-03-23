@@ -2,9 +2,9 @@
 
 TEXTO COM PELO MENOS DOIS PARÁGRAFOS SOBRE VOCÊ
 
-**Atualmente:** DESCREVE SEU CENÁRIO ATUAL, SEJA TRABALHANDO OU ESTUDANDO.
+**Atualmente:** Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2020 com Java e Kotlin. Começei a programar no curso Android Express em 2020.
 
-**Estudando:** DESCREVA O QUE ESTÁ ESTUDANDO ATUALMENTE DE FORMA MAIS APROFUNDADA.
+**Estudando:** Atualmente, venho estudando focado no desenvolvimento android com Kotlin, Room, MVC, MVVM, API RestFul, RecyclerView.
 
 
 # 📧 Contato:
