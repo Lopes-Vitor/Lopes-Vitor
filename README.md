@@ -1,6 +1,8 @@
 # 💫 Sobre mim:
 
-**Atualmente:** Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2020 com Java e Kotlin. Começei a programar no curso Android Express em 2020.
+Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2020 com Java e Kotlin. Começei a programar no curso Android Express em 2020.
+
+**Atualmente:** Em busca de uma oportunidade de estágio ou Junior para poder provar e aprimorar minhas competências como desenvolvedor android
 
 **Estudando:** Atualmente, venho estudando focado no desenvolvimento android com Kotlin, Room, MVC, MVVM, API RestFul, RecyclerView.
 
